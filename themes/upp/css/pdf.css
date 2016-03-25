@@ -1,0 +1,30 @@
+body {
+	background-color: #fff;
+}
+.borde td {
+	background-color: #909090;
+}
+td {
+	border: 1px solid black;
+}
+tr {
+	border: 0px solid white;
+}
+.sin-margen {
+	border: none;
+}
+.tamanios {
+	width: 900px;
+}
+.negrita {
+	font-weight: bold;
+}
+.centrado {
+	text-align: center;
+}
+.celda-350 {
+	width: 350px;
+}
+.texto-justificado {
+	text-align: justify;
+}
